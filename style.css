@@ -1,0 +1,122 @@
+body{
+		background-image: url("images/hexagon_pattern.png");
+		background-repeat : no-repeat;
+		background-size: 1920px 974px;
+}
+
+#nkar{
+	position: absolute;
+	top: 450px;
+	left: 1010px;
+	height: 20px;
+	width: 20px;
+}
+
+#nkarr{
+	border-radius: 12px 12px 12px 12px;
+	position: absolute;
+	top: 830px;
+	left: 950px;
+	height: 30px;
+	width: 180px;
+}
+
+#nkarok{
+	position: absolute;
+	top: 1500px;
+}
+
+#divok{
+	width: 1750px;
+	height: 913px;
+	position: absolute;
+	left: 178px;
+	top: 40px;
+}
+
+#myscore{
+	color: white;
+	position: relative;
+	top: 100px;
+	font-size: 150%;
+}
+
+#marq{
+	font-size: 600%;
+	position: absolute;
+	top: 700px;
+	color: white;
+}
+body{
+	overflow: hidden;
+}
+
+#yel{
+	position: absolute;
+	left: 3000px;
+}
+
+#im{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: lightblue;
+	border-radius: 15px 15px 15px 15px;
+	top: 210px;
+	left: 1548px;
+}
+
+#imak{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: gray;
+	border-radius: 15px 15px 15px 15px;
+	top: 310px;
+	left: 594px;
+}
+
+#myimak{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: yellow;
+	border-radius: 15px 15px 15px 15px;
+	top: 350px;
+	left: 1230px;
+}
+
+#imakk{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: darkred;
+	border-radius: 15px 15px 15px 15px;
+	top: 280px;
+	left: 276px;
+}
+
+#imaks{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: yellow;
+	border-radius: 15px 15px 15px 15px;
+	top: 345px;
+	left: 488px;
+}
+
+#divd{
+	position: absolute;
+	height: 25px;
+	width: 80px;
+	background-color: lightblue;
+	border-radius: 15px 15px 15px 15px;
+	top: 205px;
+	left: 594px;
+}
+
+#dvd{
+	position: absolute;
+	top: 1500px;
+}
